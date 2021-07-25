@@ -1,6 +1,6 @@
 def intoduction(name, location):
     print('hello everone')
-    print('Good morning')
+    print('Good Morning')
     print(f'My name is {name} and i am from {location}')
     
 
